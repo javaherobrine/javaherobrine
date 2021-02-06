@@ -9,13 +9,18 @@
 - ~C++~(Gived up)
 ## Projects
 ### My projects
-|Project Name|Language|Libraries|Versions|
+|Project Name|Language|Libraries|Version|
 |-------|---|------|----|
 |Telnetter Utools Plugin|Node.js|uTools|None|
 ### Projects what I joined
-|Project Name|Project Source|Language|Libraries|Versions|
+|Project Name|Project Source|Language|Libraries|Version|
 |-------|----------------|---|------|----|
 |CraftGame|CraftGame Studio|Java|[CraftGameRenderer](https://github.com/LovelyZeeiam/CraftGame)|None|
+### My Libraries(You can find source code in my repos and download them in repo libs,however,if a library has an implement of any project,you can't download it)
+|Name|Projects what used this library|Language|Libraries|Version|
+|----|-------------------------------|--------|---------|-------|
+|craftgame-tcp|CraftGame|Java|None|release 1.0.0|
+|cgms-java-library|One of Awa's projects,it named JawaScript|Java|None|None|
 ### Contact me
 [E-mail:javaherobrine@qq.com](mailto:javaherobrine@qq.com)
 
