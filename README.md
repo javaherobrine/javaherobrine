@@ -21,7 +21,7 @@
 ### 我编写的库（均能在对应仓库找到对应代码，带对应项目的Impl的库不提供下载）
 |名称|服务的项目|语言|依赖库|版本|
 |-------------|------------------|------------------|----------|---------|
-|craftgame-tcp|CraftGame|Java|无|release 1.0.0|
+|craftgame-tcp|无（独立自CraftGame）|Java|无|release 1.0.0|
 |cgms-java-library|JawaScript(One of Awa's projects)|Java|无|无|
 
 ## 联系我
