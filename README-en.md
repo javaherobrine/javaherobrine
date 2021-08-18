@@ -19,8 +19,8 @@
 ### My Libraries(You can find source code in my repos and download them in repo libs,however,if a library has an implement of any project,you can't download it)
 |Name|Projects what used this library|Language|Libraries|Version|
 |----|-------------------------------|--------|---------|-------|
-|craftgame-tcp|None(independ from CraftGame)|Java|None|release 1.0.0|
-|cgms-java-library|One of Awa's projects,it named JawaScript|Java|None|None|
+|~craftgame-tcp~(I won't release it any longer)|None(independ from CraftGame)|Java|None|release 1.0.0|
+|~cgms-java-library~(I will no longer develop it)|One of Awa's projects,it named JawaScript|Java|None|None|
 ### Contact me
 [E-mail:javaherobrine@qq.com](mailto:javaherobrine@qq.com)
 
