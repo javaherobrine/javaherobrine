@@ -16,7 +16,7 @@
 ### 我参与的项目
 |项目名称|项目所在组织/单位|语言|依赖库|版本|
 |-------|----------------|---|------|----|
-|CraftGame|CraftGame工作室|Java|~[CraftGameRenderer](https://github.com/LovelyZeeiam/CraftGame)~（暂无）|暂无|
+|CraftGame|CraftGame工作室|Java|~[CraftGameRenderer](https://github.com/LovelyZeeiam/CraftGame)~[LWJGL3](https://www.lwjgl.org/)|暂无|
 
 ### 我编写的库（均能在对应仓库找到对应代码，带对应项目的Impl的库不提供下载）
 |名称|服务的项目|语言|依赖库|版本|
