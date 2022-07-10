@@ -7,6 +7,7 @@
 - Java(In most projects,Java is my best choice)
 - Node.js(I'm not used to async)
 - C++(restart studying)
+- GLSL(start to learn it because of LWJGL3)
 ## Projects
 ### My projects
 |Project Name|Language|Libraries|Version|
