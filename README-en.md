@@ -1,4 +1,4 @@
-# Welcome!My name is javaherobrine,you can also call me jaro.
+# Welcome!My name is javaherobrine,you can also call me jaro.I'm an OIer and I like programming
 
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=javaherobrine)
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=javaherobrine&show_icons=true&count_private=true)
@@ -6,8 +6,8 @@
 ## Languages
 - Java(In most projects,Java is my best choice)
 - Node.js(I'm not used to async)
-- C++(restart studying)
-- GLSL(start to learn it because of LWJGL3)
+- C++(restart studying because of OI)
+- ~GLSL(start to learn it because of LWJGL3)~(Because of OI,I stopped learning GLSL)
 ## Projects
 ### My projects
 |Project Name|Language|Libraries|Version|
