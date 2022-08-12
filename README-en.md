@@ -5,7 +5,7 @@
 
 ## Languages
 - Java(In most projects,Java is my best choice)
-- Node.js(I'm not used to async)
+- ~Node.js(I'm not used to async)~(almost all has forgotten)
 - C++(restart studying because of OI)
 - ~GLSL(start to learn it because of LWJGL3)~(Because of OI,I stopped learning GLSL)
 ## Projects
