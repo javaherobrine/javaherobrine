@@ -13,7 +13,7 @@
 ### 我自己的项目
 |项目名称|语言|依赖库|版本|
 |-------|---|------|----|
-|Telnetter Utools Plugin|Node.js|[uTools](https://u.tools)|暂无|
+|~Telnetter Utools Plugin~(不再维护)|Node.js|[uTools](https://u.tools)|暂无|
 ### 我参与的项目
 |项目名称|项目所在组织/单位|语言|依赖库|版本|
 |-------|----------------|---|------|----|
