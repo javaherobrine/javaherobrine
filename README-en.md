@@ -20,7 +20,7 @@
 ### My Libraries(You can find source code in my repos and download them in repo libs,however,if a library has an implement of any project,you can't download it)
 |Name|Projects what used this library|Language|Libraries|Version|
 |----|-------------------------------|--------|---------|-------|
-|craftgame-tcp|CraftGame(Used as a module after being rebuilt)|Java|None|~release 1.0.0~(Hard to use and I'm rebuilding it)|
+|craftgame-tcp|Most of my projects that use network|Java|None|~release 1.0.0~(Hard to use and I'm rebuilding it)|
 |~cgms-java-library~(I will no longer develop it)|One of Awa's projects,it named JawaScript|Java|None|None|
 |~debug.hpp~(Paused)|None|C++|None|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
 ### Contact me
