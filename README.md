@@ -22,7 +22,7 @@
 ### 我编写的库（均能在对应仓库找到对应代码，带对应项目的实现的库不提供下载）
 |名称|服务的项目|语言|依赖库|版本|
 |-------------|------------------|------------------|----------|---------|
-|craftgame-tcp|CraftGame(重构后重新作为子模块)|Java|无|~release 1.0.0~(不好用，新版正在开发)|
+|craftgame-tcp|我所开发的大部分需要网络的项目|Java|无|~release 1.0.0~(不好用，新版正在开发)|
 |~cgms-java-library~(停止开发)|JawaScript(One of Awa's projects)|Java|无|无|
 |~debug.hpp~(暂停维护)|无|C++|无|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
 
