@@ -1,5 +1,5 @@
 [English Version](https://github.com/javaherobrine/javaherobrine/blob/main/README-en.md)
-# 大家好！这里是javaherobrine，你们可以叫我jaro，~是一名信息学奥赛选手~(退役了)，喜欢项目开发
+# 大家好！这里是javaherobrine，你们可以叫我jaro，~是一名信息学奥赛选手~(退役了)，喜欢程序设计、计算机网络和算法数据结构
 
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=javaherobrine)
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=javaherobrine&show_icons=true&count_private=true)
