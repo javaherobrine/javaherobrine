@@ -1,4 +1,4 @@
-# Hi there!My name is javaherobrine,you can also call me jaro.~I'm an OIer~(I was away from OI) and I like programming
+# Hi there!My name is javaherobrine,you can also call me jaro.~I'm an OIer~(I was away from OI) and I like programming,networking and algorithms & data structures
 
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=javaherobrine)
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=javaherobrine&show_icons=true&count_private=true)
