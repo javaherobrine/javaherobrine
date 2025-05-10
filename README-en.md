@@ -14,9 +14,9 @@
 |-------|---|------|----|
 |Telnetter Utools Plugin|Node.js|uTools|None|
 ### Projects what I joined
-|Project Name|Project Source|Language|Libraries|Version|
-|-------|----------------|---|------|----|
-|~CraftGame~(Pending)|CraftGame Studio|Java|[CraftGame](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|None|
+|Project Name|Project Source|Language|Libraries|Version|Status|
+|-------|----------------|---|------|----|-------|
+|CraftGame|CraftGame Studio|Java|[CraftGame](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|None|Merging and Developing|
 ### My Libraries(You can find source code in my repos and download them in repo libs,however,if a library has an implement of any project,you can't download it)
 |Name|Projects what used this library|Language|Libraries|Version|
 |----|-------------------------------|--------|---------|-------|
