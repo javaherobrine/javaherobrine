@@ -15,9 +15,9 @@
 |-------|---|------|----|
 |~Telnetter Utools Plugin~(不再维护)|Node.js|[uTools](https://u.tools)|暂无|
 ### 我参与的项目
-|项目名称|项目所在组织/单位|语言|依赖库|版本|
-|-------|----------------|---|------|----|
-|~CraftGame~(等待中)|CraftGame工作室|Java|[CraftGame](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|暂无|
+|项目名称|项目所在组织/单位|语言|依赖库|版本|状态|
+|-------|----------------|---|------|----|----|
+|CraftGame|CraftGame工作室|Java|[CraftGame](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|暂无|开发中&合并中|
 
 ### 我编写的库（均能在对应仓库找到对应代码，带对应项目的实现的库不提供下载）
 |名称|服务的项目|语言|依赖库|版本|
