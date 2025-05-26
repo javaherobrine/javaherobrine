@@ -13,7 +13,7 @@
 |Project Name|Language|Libraries|Version|
 |-------|---|------|----|
 |Telnetter Utools Plugin|Node.js|uTools|None|
-### Projects what I joined
+### Projects I participate in
 |Project Name|Project Source|Language|Libraries|Version|Status|
 |-------|----------------|---|------|----|-------|
 |CraftGame|CraftGame Studio|Java|[CraftGame](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|None|Merging and Developing|
@@ -29,3 +29,7 @@
 QQ:620009897
 
 ~Telegram:@Java_Herobrine~(Not recommended,offline in most of time)
+
+## Links
+[![LovelyZeeiam](https://avatars.githubusercontent.com/u/37842325?v=4)](https://github.com/LovelyZeeiam)
+[![KeqingMoe](https://avatars.githubusercontent.com/u/59642397?v=4)](https://github.com/KeqingMoe)
