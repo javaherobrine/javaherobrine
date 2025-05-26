@@ -32,3 +32,7 @@
 QQ:620009897
 
 ~Telegram:@Java_Herobrine~(不推荐，一般不在线)
+
+## 友链
+[![LovelyZeeiam](https://avatars.githubusercontent.com/u/37842325?v=4)](https://github.com/LovelyZeeiam)
+[![KeqingMoe](https://avatars.githubusercontent.com/u/59642397?v=4)](https://github.com/KeqingMoe)
