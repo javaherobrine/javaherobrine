@@ -17,14 +17,13 @@
 ### 我参与的项目
 |项目名称|项目所在组织/单位|语言|依赖库|版本|状态|
 |-------|----------------|---|------|----|----|
-|CraftGame|CraftGame工作室|Java|[CraftGame](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|暂无|开发中&合并中|
+|[CraftGame](https://github.com/javaherobrine/CraftGame)|CraftGame工作室|Java|[CraftGame](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|暂无|开发中&合并中|
 
 ### 我编写的库（均能在对应仓库找到对应代码，带对应项目的实现的库不提供下载）
 |名称|服务的项目|语言|依赖库|版本|
 |-------------|------------------|------------------|----------|---------|
-|craftgame-tcp|我所开发的大部分需要网络的项目|Java|无|release 1.0.0|
-|~cgms-java-library~(停止开发)|JawaScript(One of Awa's projects)|Java|无|无|
-|~debug.hpp~(暂停维护)|无|C++|无|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
+|[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|我所开发的大部分需要网络的项目|Java|无|[release 1.1.0](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.1.0) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
+|[~debug.hpp~(暂停维护)](https://github.com/javaherobrine/OI)|无|C++|无|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
 
 ## 联系我
 [E-mail:javaherobrine@qq.com](mailto:javaherobrine@qq.com)
