@@ -26,7 +26,9 @@
 |[~debug.hpp~(暂停维护)](https://github.com/javaherobrine/OI)|无|C++|无|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
 
 ## 联系我
-[E-mail:javaherobrine@qq.com](mailto:javaherobrine@qq.com)
+[QQ邮箱:javaherobrine@qq.com](mailto:javaherobrine@qq.com)
+
+[Outlook邮箱:c620009897@outlook.com](mailto:c620009897@outlook.com)
 
 QQ:620009897
 

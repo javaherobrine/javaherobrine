@@ -24,7 +24,9 @@
 |[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|Most of my projects that use network|Java|None|[release 1.1.0](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.1.0) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
 |[~debug.hpp~(Paused)](https://github.com/javaherobrine/OI)|None|C++|None|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
 ### Contact me
-[E-mail:javaherobrine@qq.com](mailto:javaherobrine@qq.com)
+[E-mail(QQ):javaherobrine@qq.com](mailto:javaherobrine@qq.com)
+
+[E-mail(Outlook):c620009897@outlook.ccom](mailto:c620009897@outlook.com)
 
 QQ:620009897
 
