@@ -17,11 +17,11 @@
 ### Projects I participate in
 |Project Name|Project Source|Language|Libraries|Version|Status|
 |-------|----------------|---|------|----|-------|
-|[CraftGame](https://github.com/javaherobrine/CraftGame)|CraftGame Studio|Java|[CraftGame](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|None|Merging and Developing|
-### My Libraries(You can find source code in my repos and download them in repo libs,however,if a library has an implement of any project,you can't download it)
+|[CraftGame](https://github.com/javaherobrine/CraftGame)|CraftGame Studio|Java|[CraftGame-TCP]("https://github.com/javaherobrine/craftgame-tcp-library")[CraftGame](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|None|Merging and Developing|
+### My Libraries(You can find source code in my repos and download them in repo libs,however,if a library has an implementation of any project,you can't download it)
 |Name|Projects what used this library|Language|Libraries|Version|
 |----|-------------------------------|--------|---------|-------|
-|[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|Most of my projects that use network|Java|None|[release 1.1.0](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.1.0) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
+|[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|Most of my projects that use network|Java|None|[release 1.1.1](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.1.1) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
 |[~debug.hpp~(Paused)](https://github.com/javaherobrine/OI)|None|C++|None|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
 ### Contact me
 [E-mail(QQ):javaherobrine@qq.com](mailto:javaherobrine@qq.com)
