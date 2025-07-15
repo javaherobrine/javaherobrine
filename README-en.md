@@ -1,6 +1,8 @@
 [中文](https://github.com/javaherobrine/javaherobrine/blob/main/README.md)
 # Hi there!My name is javaherobrine,you can also call me jaro.~I'm an OIer~(I was away from OI) and I like programming,networking and algorithms & data structures
 
+Operating System: Kali Linux & Windows 10
+
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=javaherobrine)
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=javaherobrine&show_icons=true&count_private=true)
 
