@@ -10,7 +10,7 @@ Operating System: Kali Linux & Windows 10
 - Java(In most projects,Java is my best choice)
 - ~Node.js(I'm not used to async)~(almost all has forgotten)
 - C++(restart studying because of OI)(paused,but I've learnt a few of it)
-- ~GLSL(start to learn it because of LWJGL3)~(Because of OI,I stopped learning GLSL)(planned to learn it)
+- GLSL(learning)
 ## Projects
 ### My projects
 |Project Name|Language|Libraries|Version|

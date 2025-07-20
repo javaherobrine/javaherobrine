@@ -1,7 +1,7 @@
 [English Version](https://github.com/javaherobrine/javaherobrine/blob/main/README-en.md)
 # 大家好！这里是javaherobrine，你们可以叫我jaro，~是一名信息学奥赛选手~(退役了)，喜欢程序设计、计算机网络和算法数据结构
 
-OS: Kali Linux & Windows 10
+操作系统: Kali Linux & Windows 10
 
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=javaherobrine)
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=javaherobrine&show_icons=true&count_private=true)
@@ -10,7 +10,7 @@ OS: Kali Linux & Windows 10
 - Java(最擅长的语言)
 - ~Node.js(不习惯异步)~(忘干净了)
 - C++(由于OI开始系统性的学习)(学会部分，暂停)
-- ~GLSL(由于LWJGL3开始学习)~(由于OI暂停学习)(计划重新学习)
+- GLSL(学习中)
 ## 项目
 ### 我自己的项目
 |项目名称|语言|依赖库|版本|
