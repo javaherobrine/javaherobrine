@@ -1,4 +1,5 @@
 [English Version](https://github.com/javaherobrine/javaherobrine/blob/main/README-en.md)
+
 #大家好！ 
 
 这里是javaherobrine，你们可以叫我jaro，~是一名信息学奥赛选手~(退役了)，喜欢计算机，现在就读中国科学技术大学物理系
@@ -26,10 +27,10 @@
 |-------|----------------|---|------|----|----|
 |[CraftGame](https://github.com/javaherobrine/CraftGame)|CraftGame工作室|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)&[CraftGame](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|暂无|开发中&合并中|
 ### 我编写的库（均能在对应仓库找到对应代码，带对应项目的实现的库不提供下载）
-|名称|服务的项目|语言|依赖库|版本|
-|-------------|------------------|------------------|----------|---------|
-|[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|我所开发的大部分需要网络的项目|Java|无|[release 1.1.1](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.1.1) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
-|[~debug.hpp~(暂停维护)](https://github.com/javaherobrine/OI)|无|C++|无|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
+|名称|语言|依赖库|版本|
+|-------------|------------------|----------|---------|
+|[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|Java|无|[release 1.1.1](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.1.1) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
+|[~debug.hpp~(暂停维护)](https://github.com/javaherobrine/OI)|C++|无|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
 
 ## 联系我
 - [QQ邮箱:javaherobrine@qq.com](mailto:javaherobrine@qq.com)
