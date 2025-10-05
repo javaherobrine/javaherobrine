@@ -25,7 +25,7 @@
 ### 我参与的项目
 |项目名称|项目所在组织/单位|语言|依赖库|版本|状态|
 |-------|----------------|---|------|----|----|
-|[CraftGame](https://github.com/javaherobrine/CraftGame)|CraftGame工作室|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)&[CraftGame](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|暂无|开发中&合并中|
+|[CraftGame](https://github.com/javaherobrine/CraftGame)|CraftGame工作室|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)&[~CraftGame~(暂停维护)](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|暂无|开发中&合并中|
 ### 我编写的库（均能在对应仓库找到对应代码，带对应项目的实现的库不提供下载）
 |名称|语言|依赖库|版本|
 |-------------|------------------|----------|---------|

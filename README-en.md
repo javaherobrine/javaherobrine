@@ -25,7 +25,7 @@ It must be noted that I have no Python support. Please don't send me Python code
 ### Projects I participate in
 |Project Name|Project Source|Language|Libraries|Version|Status|
 |-------|----------------|---|------|----|-------|
-|[CraftGame](https://github.com/javaherobrine/CraftGame)|CraftGame Studio|Java|[CraftGame-TCP]("https://github.com/javaherobrine/craftgame-tcp-library")&[CraftGame](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|None|Merging and Developing|
+|[CraftGame](https://github.com/javaherobrine/CraftGame)|CraftGame Studio|Java|[CraftGame-TCP]("https://github.com/javaherobrine/craftgame-tcp-library")&[~CraftGame~(maintenance paused)](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|None|Merging and Developing|
 ### My Libraries(You can find source code in my repos and download them in repo libs,however,if a library has an implementation of any project,you can't download it)
 |Name|Language|Libraries|Version|
 |----|--------|---------|-------|
