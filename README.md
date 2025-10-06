@@ -1,8 +1,10 @@
 [English Version](https://github.com/javaherobrine/javaherobrine/blob/main/README-en.md)
 
-#大家好！ 
+# 大家好！ 
 
 这里是javaherobrine，你们可以叫我jaro，~是一名信息学奥赛选手~(退役了)，喜欢计算机，现在就读中国科学技术大学物理系
+
+然而，越来越重的任务下来了，我不知道我这次爆的暂停，会不会就是停止。我想紧紧的抓住IT，也只是勉强抓住而已。希望我的调度器和处理器可以助我一臂之力。
 
 操作系统: Kali Linux & Windows 10/11
 
@@ -21,7 +23,7 @@
 ### 我自己的项目
 |项目名称|语言|依赖库|版本|
 |-------|---|------|----|
-|~Telnetter Utools Plugin~(不再维护)|Node.js|[uTools](https://u.tools)|暂无|
+|[Nerdle](https://github.com/javaherobrine/Nerdle)|Java|无|[最终发行](https://github.com/javaherobrine/Nerdle/releases/tag/Final)|
 ### 我参与的项目
 |项目名称|项目所在组织/单位|语言|依赖库|版本|状态|
 |-------|----------------|---|------|----|----|
@@ -31,6 +33,7 @@
 |-------------|------------------|----------|---------|
 |[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|Java|无|[release 1.1.1](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.1.1) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
 |[~debug.hpp~(暂停维护)](https://github.com/javaherobrine/OI)|C++|无|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
+|[数学计算](https://github.com/javaherobrine/math-problems-solver)|C++|无|无|
 
 ## 联系我
 - [QQ邮箱:javaherobrine@qq.com](mailto:javaherobrine@qq.com)

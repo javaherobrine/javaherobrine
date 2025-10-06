@@ -4,6 +4,8 @@
 
 My name is javaherobrine,you can also call me jaro.~I'm an OIer~(I was away from OI) and I like IT, majoring in Physics in USTC now.
 
+However, INFINITE load swallowing me, I don't know whether my next "maintenance paused" should be regarded as "maintenance terminated". I'm trying my best to learn IT, but probably in vain. Hope my scheduler and processor can help me with it.
+
 Operating System: Kali Linux & Windows 10/11
 
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=javaherobrine)
@@ -21,7 +23,7 @@ It must be noted that I have no Python support. Please don't send me Python code
 ### My projects
 |Project Name|Language|Libraries|Version|
 |-------|---|------|----|
-|~Telnetter Utools Plugin~(maintenance terminated)|Node.js|uTools|None|
+|[Nerdle](https://github.com/javaherobrine/Nerdle)|Java|None|[Final Release](https://github.com/javaherobrine/Nerdle/releases/tag/Final)|
 ### Projects I participate in
 |Project Name|Project Source|Language|Libraries|Version|Status|
 |-------|----------------|---|------|----|-------|
@@ -30,7 +32,8 @@ It must be noted that I have no Python support. Please don't send me Python code
 |Name|Language|Libraries|Version|
 |----|--------|---------|-------|
 |[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|Java|None|[release 1.1.1](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.1.1) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
-|[~debug.hpp~(Paused)](https://github.com/javaherobrine/OI)|C++|None|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
+|[~debug.hpp~(Terminated)](https://github.com/javaherobrine/OI)|C++|None|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
+|[math problems solver](https://github.com/javaherobrine/math-problems-solver)|C++|None|None|
 ### Contact me
 - [E-mail(QQ):javaherobrine@qq.com](mailto:javaherobrine@qq.com)
 - [E-mail(USTC):javaherobrine@mail.ustc.edu.cn](mailto:javaherobrine@mail.ustc.edu.cn)
