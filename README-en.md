@@ -21,17 +21,18 @@ It must be noted that I have no Python support. Please don't send me Python code
 
 ## Projects
 ### My projects
-|Project Name|Language|Libraries|Version|
-|-------|---|------|----|
-|[Nerdle](https://github.com/javaherobrine/Nerdle)|Java|None|[Final Release](https://github.com/javaherobrine/Nerdle/releases/tag/Final)|
+|Project Name|Language|Libraries|Version|Description|
+|-------|---|------|----|-|
+|[Nerdle](https://github.com/javaherobrine/Nerdle)|Java|None|[Final Release](https://github.com/javaherobrine/Nerdle/releases/tag/Final)|Java implementation of USTC LUG's|
+|[TCP & UDP Simulator](https://github.com/javaherobrine/craftgame-tcp-library)|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)|[release 1.4.1](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.4.1)|It a part of CraftGame-TCP Library actually|
 ### Projects I participate in
 |Project Name|Project Source|Language|Libraries|Version|Status|
 |-------|----------------|---|------|----|-------|
-|[CraftGame](https://github.com/javaherobrine/CraftGame)|CraftGame Studio|Java|[CraftGame-TCP]("https://github.com/javaherobrine/craftgame-tcp-library")&[~CraftGame~(maintenance paused)](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|None|Merging and Developing|
+|[CraftGame](https://github.com/javaherobrine/CraftGame)|CraftGame Studio|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)&[~CraftGame~(maintenance paused)](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|None|~Merging and Developing~Paused|
 ### My Libraries(You can find source code in my repos and download them in repo libs,however,if a library has an implementation of any project,you can't download it)
 |Name|Language|Libraries|Version|
 |----|--------|---------|-------|
-|[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|Java|None|[release 1.1.1](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.1.1) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
+|[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|Java|None|[release 1.4.1](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.4.1) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
 |[~debug.hpp~(Terminated)](https://github.com/javaherobrine/OI)|C++|None|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
 |[math problems solver](https://github.com/javaherobrine/math-problems-solver)|C++|None|None|
 ### Contact me

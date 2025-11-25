@@ -21,17 +21,18 @@
 
 ## 项目
 ### 我自己的项目
-|项目名称|语言|依赖库|版本|
-|-------|---|------|----|
-|[Nerdle](https://github.com/javaherobrine/Nerdle)|Java|无|[最终发行](https://github.com/javaherobrine/Nerdle/releases/tag/Final)|
+|项目名称|语言|依赖库|版本|特殊说明|
+|-------|---|------|----|-|
+|[Nerdle](https://github.com/javaherobrine/Nerdle)|Java|无|[最终发行](https://github.com/javaherobrine/Nerdle/releases/tag/Final)|USTC LUG的Nerdle的Java实现|
+|[TCP & UDP Simulator](https://github.com/javaherobrine/craftgame-tcp-library)|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)|[release 1.4.1](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.4.1")|其实是库的一部分|
 ### 我参与的项目
 |项目名称|项目所在组织/单位|语言|依赖库|版本|状态|
 |-------|----------------|---|------|----|----|
-|[CraftGame](https://github.com/javaherobrine/CraftGame)|CraftGame工作室|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)&[~CraftGame~(暂停维护)](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|暂无|开发中&合并中|
+|[CraftGame](https://github.com/javaherobrine/CraftGame)|CraftGame工作室|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)&[~CraftGame~(暂停维护)](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|暂无|~开发中&合并中~暂停维护|
 ### 我编写的库（均能在对应仓库找到对应代码，带对应项目的实现的库不提供下载）
 |名称|语言|依赖库|版本|
 |-------------|------------------|----------|---------|
-|[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|Java|无|[release 1.1.1](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.1.1) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
+|[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|Java|无|[release 1.4.1](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.4.1) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
 |[~debug.hpp~(暂停维护)](https://github.com/javaherobrine/OI)|C++|无|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
 |[数学计算](https://github.com/javaherobrine/math-problems-solver)|C++|无|无|
 
