@@ -6,6 +6,8 @@
 
 然而，越来越重的任务下来了，我不知道我这次爆的暂停，会不会就是停止。我想紧紧的抓住IT，也只是勉强抓住而已。希望我的调度器和处理器可以助我一臂之力。
 
+计算机图形学真的好难！！！
+
 操作系统: Kali Linux & Windows 10/11
 
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=javaherobrine)
@@ -24,15 +26,15 @@
 |项目名称|语言|依赖库|版本|特殊说明|
 |-------|---|------|----|-|
 |[Nerdle](https://github.com/javaherobrine/Nerdle)|Java|无|[最终发行](https://github.com/javaherobrine/Nerdle/releases/tag/Final)|USTC LUG的Nerdle的Java实现|
-|[TCP & UDP Simulator](https://github.com/javaherobrine/craftgame-tcp-library)|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)|[release 1.4.1](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.4.1")|其实是库的一部分|
+|[TCP & UDP Simulator](https://github.com/javaherobrine/craftgame-tcp-library)|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)|[release 1.5.0](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.5.0")|其实是库的一部分|
 ### 我参与的项目
 |项目名称|项目所在组织/单位|语言|依赖库|版本|状态|
 |-------|----------------|---|------|----|----|
-|[CraftGame](https://github.com/javaherobrine/CraftGame)|CraftGame工作室|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)&[~CraftGame~(暂停维护)](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|暂无|~开发中&合并中~暂停维护|
+|[CraftGame](https://github.com/javaherobrine/CraftGame)|[CraftGame工作室](https://github.com/CraftGame-Studio-Dev)|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)&[~CraftGame~(暂停维护)](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|暂无|~开发中&合并中~暂停维护|
 ### 我编写的库（均能在对应仓库找到对应代码，带对应项目的实现的库不提供下载）
 |名称|语言|依赖库|版本|
 |-------------|------------------|----------|---------|
-|[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|Java|无|[release 1.4.1](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.4.1) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
+|[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|Java|无|[release 1.5.0](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.5.0) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
 |[~debug.hpp~(暂停维护)](https://github.com/javaherobrine/OI)|C++|无|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
 |[数学计算](https://github.com/javaherobrine/math-problems-solver)|C++|无|无|
 
@@ -46,5 +48,6 @@
 请使用简体中文，繁體中文或者英文给我发送信息
 
 ## 友链
-[![LovelyZeeiam](https://avatars.githubusercontent.com/u/37842325?v=4)](https://github.com/LovelyZeeiam)
-[![KeqingMoe](https://avatars.githubusercontent.com/u/59642397?v=4)](https://github.com/KeqingMoe)
+[![LovelyZeeiam](https://avatars.githubusercontent.com/u/37842325)](https://github.com/LovelyZeeiam)
+[![KeqingMoe](https://avatars.githubusercontent.com/u/59642397)](https://github.com/KeqingMoe)
+[![CraftGame Studio](https://avatars.githubusercontent.com/u/251435709)](https://github.com/CraftGame-Studio-Dev)
