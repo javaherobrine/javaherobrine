@@ -8,18 +8,25 @@ However, INFINITE load swallowing me, I don't know whether my next "maintenance 
 
 Computer Graphics Is Extremely Hard!!!
 
+Interested in Computer Graphics, Algorithms & Data Structures and Network, but I'm not interested in AI or Programming Languages.
+
 Operating System: Kali Linux & Windows 10/11
 
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=javaherobrine)
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=javaherobrine&show_icons=true&count_private=true)
 
 ## Languages
-- Java(Great support)
-- ~JavaScript~(Extremely poor and invalid support)
+- Java(My support to Java is up to date and I'm good at it)
+- JavaScript(Supported not well as I don't support dynamic types well)
 - C/C++(They're not supported well, but they're supported after all)
-- GLSL(learning)(inherited from my C support)
+- GLSL(Gradually supported)(inherited from my C support)
 
-It must be noted that I have no Python support. Please don't send me Python code because I can't "compile" it.
+### Schedule to support in the future
+- Python & Matlab(For investigation purposes)
+- TypeScript(I want a strict type system)
+- Rust(Although I don't like it)
+
+It must be noted that I have no Python support currently. Please don't send me Python code because I can't "compile" it.
 
 ## Projects
 ### My projects

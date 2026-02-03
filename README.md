@@ -8,18 +8,25 @@
 
 计算机图形学真的好难！！！
 
+对计算机图形学、算法数据结构和计算机网络感兴趣，但是对AI和编程语言本身没有兴趣。
+
 操作系统: Kali Linux & Windows 10/11
 
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=javaherobrine)
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=javaherobrine&show_icons=true&count_private=true)
 
 ## 编程语言
-- Java(有非常好的支持)
-- ~JavaScript(有非常坏且几乎不可用的支持)~
+- Java(支持最新特性，且擅长)
+- JavaScript(逐渐捡回来了，但是仍然不习惯动态类型)
 - C/C++(有较坏但是部分可用的支持)
-- GLSL(学习中)(使用我的C语言支持)
+- GLSL(渐入佳境)(使用我的C语言支持)
 
-值得注意的是，我完全不支持Python，请大家不要给我提交Python代码
+### 计划
+- Python & Matlab(为什么科研不用Java或者C++)
+- TypeScript(静态类型真好)
+- Rust(尽管我不是很喜欢它)
+
+值得注意的是，我目前完全不支持Python，请大家不要给我提交Python代码
 
 ## 项目
 ### 我自己的项目
