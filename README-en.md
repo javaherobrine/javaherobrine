@@ -20,13 +20,14 @@ Operating System: Kali Linux & Windows 10/11
 - JavaScript(Supported not well as I don't support dynamic types well)
 - C/C++(They're not supported well, but they're supported after all)
 - GLSL(Gradually supported)(inherited from my C support)
+- Python 2.7(``` public static final Compiler PYTHON=Jython; ```)
 
 ### Schedule to support in the future
-- Python & Matlab(For investigation purposes)
+- Matlab(For investigation purposes)
 - TypeScript(I want a strict type system)
 - Rust(Although I don't like it)
 
-It must be noted that I have no Python support currently. Please don't send me Python code because I can't "compile" it.
+It must be noted that my built-in Python Compiler is Jython instead of CPython. If you submit Python code to me, maybe the result will be filled with "strange Java Libraries".
 
 ## Projects
 ### My projects

@@ -20,13 +20,14 @@
 - JavaScript(逐渐捡回来了，但是仍然不习惯动态类型)
 - C/C++(有较坏但是部分可用的支持)
 - GLSL(渐入佳境)(使用我的C语言支持)
+- Python 2.7(使用Jython解释器)
 
 ### 计划
-- Python & Matlab(为什么科研不用Java或者C++)
+- Matlab(为什么科研不用Java或者C++)
 - TypeScript(静态类型真好)
 - Rust(尽管我不是很喜欢它)
 
-值得注意的是，我目前完全不支持Python，请大家不要给我提交Python代码
+值得注意的是，我使用Jython作为我的Python支持，我的处理结果可能会包含”奇怪的Java库”
 
 ## 项目
 ### 我自己的项目
