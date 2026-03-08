@@ -20,7 +20,7 @@
 - JavaScript(逐渐捡回来了，但是仍然不习惯动态类型)
 - C/C++(有较坏但是部分可用的支持)
 - GLSL(渐入佳境)(使用我的C语言支持)
-- Python 2.7(使用Jython解释器)
+- Python 2.7 & 3(分别使用Jython解释器和CPython解释器)
 
 ### 计划
 - Matlab(为什么科研不用Java或者C++)

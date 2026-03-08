@@ -20,7 +20,7 @@ Operating System: Kali Linux & Windows 10/11
 - JavaScript(Supported not well as I don't support dynamic types well)
 - C/C++(They're not supported well, but they're supported after all)
 - GLSL(Gradually supported)(inherited from my C support)
-- Python 2.7(``` public static final Compiler PYTHON=Jython; ```)
+- Python 2.7 & 3(``` public static final Compiler PYTHON27=Jython; public static final Compiler PYTHON3=CPython; ```)
 
 ### Schedule to support in the future
 - Matlab(For investigation purposes)
