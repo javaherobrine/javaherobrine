@@ -23,6 +23,7 @@
 - Python 2.7 & 3(分别使用Jython解释器和CPython解释器)
 
 ### 计划
+- x86汇编(我对计算机的原理感到痴迷)
 - Matlab(为什么科研不用Java或者C++)
 - TypeScript(静态类型真好)
 - Rust(尽管我不是很喜欢它)

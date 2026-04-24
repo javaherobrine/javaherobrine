@@ -23,6 +23,7 @@ Operating System: Kali Linux & Windows 10/11
 - Python 2.7 & 3(``` public static final Compiler PYTHON27=Jython; public static final Compiler PYTHON3=CPython; ```)
 
 ### Schedule to support in the future
+- x86 Assembly(I love the principles of computers)
 - Matlab(For investigation purposes)
 - TypeScript(I want a strict type system)
 - Rust(Although I don't like it)
