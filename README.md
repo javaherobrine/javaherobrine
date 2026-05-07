@@ -51,6 +51,7 @@
 - [QQ邮箱:javaherobrine@qq.com](mailto:javaherobrine@qq.com)
 - [科大邮箱:javaherobrine@mail.ustc.edu.cn](mailto:javaherobrine@mail.ustc.edu.cn)
 - [Outlook邮箱:c620009897@outlook.com](mailto:c620009897@outlook.com)
+- [Gmail:javaherobrinecg@gmail.com](mailto:javaherobrinecg@gmail.com)
 - QQ:620009897
 - ~Telegram:@Java_Herobrine~(不推荐，一般不在线)
 

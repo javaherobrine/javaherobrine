@@ -50,6 +50,7 @@ It must be noted that my built-in Python Compiler is Jython instead of CPython. 
 - [E-mail(QQ):javaherobrine@qq.com](mailto:javaherobrine@qq.com)
 - [E-mail(USTC):javaherobrine@mail.ustc.edu.cn](mailto:javaherobrine@mail.ustc.edu.cn)
 - [E-mail(Outlook):c620009897@outlook.ccom](mailto:c620009897@outlook.com)
+- [E-mail(Gmail):javaherobrinecg@gmail.com](mailto:javaherobrinecg@gmail.com)
 - QQ:620009897
 - ~Telegram:@Java_Herobrine~(Not recommended,offline in most of time)
 
