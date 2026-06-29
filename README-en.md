@@ -2,15 +2,17 @@
 
 # Hi there!
 
-My name is javaherobrine,you can also call me jaro.~I'm an OIer~(I was away from OI) and I like IT, majoring in Physics in USTC now.
+My name is javaherobrine,~you can also call me jaro~(But it's NOT recommended now).~I'm an OIer~(I was away from OI) and I like IT, majoring in Physics in USTC now.
 
 However, INFINITE load swallowing me, I don't know whether my next "maintenance paused" should be regarded as "maintenance terminated". I'm trying my best to learn IT, but probably in vain. Hope my scheduler and processor can help me with it.
 
+I HATE IYPT!!!
+
 Computer Graphics Is Extremely Hard!!!
 
-Interested in Computer Graphics, Algorithms & Data Structures and Network, but I'm not interested in AI or Programming Languages.
+Interested in Computer Graphics, Algorithms & Data Structures, Network and OS, but I'm not interested in AI or Programming Language Theories at all.
 
-Operating System: Kali Linux & Windows 10/11
+I'm using Linux now and Windows support is also provided. But there's NO macOS support provided by me.
 
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=javaherobrine)
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=javaherobrine&show_icons=true&count_private=true)
@@ -39,7 +41,7 @@ It must be noted that my built-in Python Compiler is Jython instead of CPython. 
 ### Projects I participate in
 |Project Name|Project Source|Language|Libraries|Version|Status|
 |-------|----------------|---|------|----|-------|
-|[CraftGame](https://github.com/javaherobrine/CraftGame)|[CraftGame Studio](https://github.com/CraftGame-Studio-Dev)|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)&[~CraftGame~(maintenance paused)](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|None|~Merging and Developing~Paused|
+|[~CraftGame~(Paused)](https://github.com/javaherobrine/CraftGame)|[CraftGame Studio](https://github.com/CraftGame-Studio-Dev)|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)&[~CraftGame~(maintenance paused)](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|None|~Merging and Developing~Paused|
 ### My Libraries(You can find source code in my repos and download them in repo libs,however,if a library has an implementation of any project,you can't download it)
 |Name|Language|Libraries|Version|
 |----|--------|---------|-------|

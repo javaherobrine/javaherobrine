@@ -2,15 +2,17 @@
 
 # 大家好！ 
 
-这里是javaherobrine，你们可以叫我jaro，~是一名信息学奥赛选手~(退役了)，喜欢计算机，现在就读中国科学技术大学物理系
+这里是javaherobrine，~你们可以叫我jaro~(现在不建议了)，~是一名信息学奥赛选手~(退役了)，喜欢计算机，现在就读中国科学技术大学物理系
 
 然而，越来越重的任务下来了，我不知道我这次爆的暂停，会不会就是停止。我想紧紧的抓住IT，也只是勉强抓住而已。希望我的调度器和处理器可以助我一臂之力。
 
+我恨IYPT！！！
+
 计算机图形学真的好难！！！
 
-对计算机图形学、算法数据结构和计算机网络感兴趣，但是对AI和编程语言本身没有兴趣。
+对计算机图形学、算法数据结构和计算机网络以及操作系统感兴趣，但是对AI和编程语言理论没有兴趣。
 
-操作系统: Kali Linux & Windows 10/11
+同时是一个Linux用户，提供Windows兼容，但是不提供macOS环境。
 
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=javaherobrine)
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=javaherobrine&show_icons=true&count_private=true)
@@ -39,12 +41,12 @@
 ### 我参与的项目
 |项目名称|项目所在组织/单位|语言|依赖库|版本|状态|
 |-------|----------------|---|------|----|----|
-|[CraftGame](https://github.com/javaherobrine/CraftGame)|[CraftGame工作室](https://github.com/CraftGame-Studio-Dev)|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)&[~CraftGame~(暂停维护)](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|暂无|~开发中&合并中~暂停维护|
+|[~CraftGame~(暂停维护)](https://github.com/javaherobrine/CraftGame)|[CraftGame工作室](https://github.com/CraftGame-Studio-Dev)|Java|[CraftGame-TCP](https://github.com/javaherobrine/craftgame-tcp-library)&[~CraftGame~(暂停维护)](https://github.com/LovelyZeeiam/CraftGame)&[LWJGL3](https://www.lwjgl.org/)|暂无|~开发中&合并中~暂停维护|
 ### 我编写的库（均能在对应仓库找到对应代码，带对应项目的实现的库不提供下载）
 |名称|语言|依赖库|版本|
 |-------------|------------------|----------|---------|
 |[craftgame-tcp](https://github.com/javaherobrine/craftgame-tcp-library)|Java|无|[release 1.5.0](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/v1.5.0) & [~Legacy~](https://github.com/javaherobrine/craftgame-tcp-library/releases/tag/legacy-version)|
-|[~debug.hpp~(暂停维护)](https://github.com/javaherobrine/OI)|C++|无|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
+|[~debug.hpp~(停止维护)](https://github.com/javaherobrine/OI)|C++|无|[OI-1.0.1](https://github.com/javaherobrine/OI/blob/main/debug.hpp)|
 |[数学计算](https://github.com/javaherobrine/math-problems-solver)|C++|无|无|
 
 ## 联系我
