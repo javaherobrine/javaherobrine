@@ -12,7 +12,9 @@
 
 对计算机图形学、算法数据结构和计算机网络以及操作系统感兴趣，但是对AI和编程语言理论没有兴趣。
 
-同时是一个Linux用户，提供Windows兼容，但是不提供macOS环境。
+同时是一个Linux用户，提供Windows兼容，但是**不提供**macOS环境。
+
+留给我的，唯余混乱。
 
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=javaherobrine)
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=javaherobrine&show_icons=true&count_private=true)
@@ -61,5 +63,4 @@
 
 ## 友链
 [![LovelyZeeiam](https://avatars.githubusercontent.com/u/37842325)](https://github.com/LovelyZeeiam)
-[![KeqingMoe](https://avatars.githubusercontent.com/u/59642397)](https://github.com/KeqingMoe)
 [![CraftGame Studio](https://avatars.githubusercontent.com/u/251435709)](https://github.com/CraftGame-Studio-Dev)

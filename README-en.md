@@ -12,7 +12,9 @@ Computer Graphics Is Extremely Hard!!!
 
 Interested in Computer Graphics, Algorithms & Data Structures, Network and OS, but I'm not interested in AI or Programming Language Theories at all.
 
-I'm using Linux now and Windows support is also provided. But there's NO macOS support provided by me.
+I'm using Linux now and Windows support is also provided. But there's **NO** macOS support provided by me.
+
+There's nothing left for me but chaos.
 
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api/top-langs/?username=javaherobrine)
 ![2333](https://github-readme-stats-89dq8p8qw.vercel.app/api?username=javaherobrine&show_icons=true&count_private=true)
@@ -60,5 +62,4 @@ Please send messages to me in Simplified Chinese, Traditional Chinese or English
 
 ## Links
 [![LovelyZeeiam](https://avatars.githubusercontent.com/u/37842325?v=4)](https://github.com/LovelyZeeiam)
-[![KeqingMoe](https://avatars.githubusercontent.com/u/59642397?v=4)](https://github.com/KeqingMoe)
 [![CraftGame Studio](https://avatars.githubusercontent.com/u/251435709)](https://github.com/CraftGame-Studio-Dev)
