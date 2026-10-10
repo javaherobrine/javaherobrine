@@ -1,4 +1,5 @@
 [中文](https://github.com/javaherobrine/javaherobrine/blob/main/README.md)
+[misc](https://github.com/javaherobrine/javaherobrine/blob/main/misc)
 
 # Hi there!
 
@@ -29,7 +30,6 @@ There's nothing left for me but chaos.
 ### Schedule to support in the future
 - x86 Assembly(I love the principles of computers)
 - Matlab(For investigation purposes)
-- TypeScript(I want a strict type system)
 - Rust(Although I don't like it)
 
 It must be noted that my built-in Python Compiler is Jython instead of CPython. If you submit Python code to me, maybe the result will be filled with "strange Java Libraries".

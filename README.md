@@ -1,5 +1,5 @@
 [English Version](https://github.com/javaherobrine/javaherobrine/blob/main/README-en.md)
-
+[杂项](https://github.com/javaherobrine/javaherobrine/blob/main/misc)
 # 大家好！ 
 
 这里是javaherobrine，~你们可以叫我jaro~(现在不建议了)，~是一名信息学奥赛选手~(退役了)，喜欢计算机，现在就读中国科学技术大学物理系
@@ -11,6 +11,8 @@
 计算机图形学真的好难！！！
 
 对计算机图形学、算法数据结构和计算机网络以及操作系统感兴趣，但是对AI和编程语言理论没有兴趣。
+
+他几乎停止了
 
 同时是一个Linux用户，提供Windows兼容，但是**不提供**macOS环境。
 
@@ -29,7 +31,6 @@
 ### 计划
 - x86汇编(我对计算机的原理感到痴迷)
 - Matlab(为什么科研不用Java或者C++)
-- TypeScript(静态类型真好)
 - Rust(尽管我不是很喜欢它)
 
 值得注意的是，我使用Jython作为我的Python支持，我的处理结果可能会包含”奇怪的Java库”
